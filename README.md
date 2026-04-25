@@ -1,6 +1,7 @@
 # 🚀 Mayeesha Fairooz Bari
 
-**Analytical Strategist | AI Specialist | MSc Data Science Candidate** Bridging the gap between technical complexity and strategic communication to drive measurable business outcomes. 
+**Analytical Strategist | AI Specialist | MSc Data Science Candidate** 
+Bridging the gap between technical complexity and strategic communication to drive measurable business outcomes. 
 
 ---
 
