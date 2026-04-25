@@ -1,7 +1,8 @@
 # 🚀 Mayeesha Fairooz Bari
 
 **Analytical Strategist | AI Specialist | MSc Data Science Candidate** 
-Bridging the gap between technical complexity and strategic communication to drive measurable business outcomes. 
+
+Bridging the gap between technical complexity and strategic communication to drive measurable business outcomes.
 
 ---
 
@@ -29,12 +30,6 @@ I am a Data Science professional with a strong foundation in **Marketing** and *
 * **[Behavioral Anti-Fraud Pipeline](https://github.com/mayeeeeesha/Anti-Fraud-Pipeline)**: Engineered a predictive pipeline for gaming/fintech transactions. Validated Accuracy: $0.8758$, F1 Score: $0.8695$. 
 * **[Advanced Business Analytics](https://github.com/mayeeeeesha/Churn-Prediction)**: Deployed a SAS Viya churn pipeline using the SEMMA framework to isolate retention triggers. 
 * **[Automated Spelling Correction](https://github.com/mayeeeeesha/Spell-Check)**: Developed a system for linguistic anomaly detection using multi-level tokenization. 
-
----
-
-### 📈 GitHub Stats
-![Mayeesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayeeeeesha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayeeeeesha&layout=compact&theme=radical)
 
 ---
 
